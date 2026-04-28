@@ -1,6 +1,6 @@
 # Study Track 🚀
 
-O **StudTrack** é uma ferramenta desenhada para auxiliar estudantes em sua vida acadêmica
+Este repositório é dedicado a prototipação de modelagem de uma ferramenta de autoria própria, o **StudyTrack**
 
 ## 📌 Funcionalidades
 - **Flashcards:** Memorização ativa com repetição espaçada.
